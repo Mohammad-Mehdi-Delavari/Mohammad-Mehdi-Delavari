@@ -9,7 +9,7 @@
 </p>
 
 <ul>
-    <li> 🌍  من در استان مرکزی و در شهر مامونه زندگی میکنم </li>
+    <li> 🌍  من در استان مرکزی و در شهر مامونیه زندگی میکنم </li>
     <li> 🖥️  میتوانید نمونه کار های من را در این ادرس تماشا کنید :<a href="https://github.com/Mohammad-Mehdi-Delavari?tab=repositories">[کلیک کنید]</a></li>
     <li> ✉️  ارتباط با من در تلگرام : <a href="https://t.me/mohammadMahdiDelavari">[کلیک کنید]</a></li>
     <li> 🤝  من آماده همکاری در پروژه های مبتنی بر React هستم</li>
